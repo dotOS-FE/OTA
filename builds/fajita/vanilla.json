@@ -1,0 +1,26 @@
+{
+    "response": [
+        {
+            "datetime": "1625252018",
+            "filename": "dotOS-FanEdition-R-v1.0-fajita-OFFICIAL-20210702-1855.zip",
+            "id": "70e46e1688f0f59c9e71101cfd0f79f5",
+            "romtype": "OFFICIAL",
+            "size": "840205231",
+            "url": "https://sourceforge.net/projects/dotos-fe/files/fajita/vanilla/dotOS-FanEdition-R-v1.0-fajita-OFFICIAL-20210702-1855.zip/download",
+            "version": "v1.0",
+            "changelog": [
+                {
+                    "miscTitle": "",
+                    "miscSummary": "",
+                    "settingsTitle": "",
+                    "settingsSummary": "",
+                    "securityTitle": "",
+                    "securitySummary": "",
+                    "systemTitle": "Some device bug fixes",
+                    "systemSummary": "\u2022 Fixed NFC service crashing\n\u2022 Added build fingerprint to bypass SafetyNet"
+                }
+            ]
+        }
+    ]
+}
+
