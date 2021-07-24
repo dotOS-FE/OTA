@@ -13,6 +13,11 @@
                         "name": "Jeferson Rodrigo de Oliveira",
                         "github": "jro1979oliver",
                         "device": "Moto Z3 Play"
+		},
+		{
+			"name": "David Ramirez",
+			"github": "DefaultioX",
+			"device": "Xiaomi Redmi Note 8"	
                 }
 	]
 }
