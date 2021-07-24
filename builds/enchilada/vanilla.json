@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1625329877",
-            "filename": "dotOS-FanEdition-R-v1.0-enchilada-OFFICIAL-20210703-1634.zip",
-            "id": "45bf4baa19c8c901abd30de386309042",
+            "datetime": "1627131223",
+            "filename": "dotOS-FanEdition-R-v1.1-enchilada-OFFICIAL-20210724-1256.zip",
+            "id": "1ac41244656b24bfe116f4c60bad1169",
             "romtype": "VANILLA",
-            "size": "808993689",
-            "url": "https://sourceforge.net/projects/dotos-fe/files/enchilada/vanilla/dotOS-FanEdition-R-v1.0-enchilada-OFFICIAL-20210703-1634.zip/download",
-            "version": "v1.0",
+            "size": "856440784",
+            "url": "https://sourceforge.net/projects/dotos-fe/files/enchilada/vanilla/dotOS-FanEdition-R-v1.1-enchilada-OFFICIAL-20210724-1256.zip/download",
+            "version": "v1.1",
             "changelog": [
                 {
-                    "miscTitle": "",
-                    "miscSummary": "",
-                    "settingsTitle": "",
-                    "settingsSummary": "",
-                    "securityTitle": "",
-                    "securitySummary": "",
-                    "systemTitle": "Initial Build",
-                    "systemSummary": "\u2022 Added build fingerprint to bypass SafetyNet"
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Allowed changing face unlock method \n\u2022 Added ADB root feature \n\u2022 Added optional haptic feedback on back gesture \n\u2022 Introduced swipe to call on AOSP Dialer \n\u2022 Added quick unlock feature \n\u2022 Disabled fullscreen keyboard in landscape mode \n\u2022 Added Sync Tile \n\u2022 Added memory usage info in app info page \n\u2022 Added Flipendo (Extreme Battery Saver) \n\u2022 Added Edge Music Control Gesture \n\u2022 Allowed installation non-market apps by default \n\u2022 OnePlus Launcher is now avalible in GApps builds \n\u2022 Added OnePlus Number, Roman & Fluid v2 clocks \n\u2022 Switched to filled OxygenOS vibrate icon \n\u2022 Added reTicker feature \n\u2022 Setted scrolling friction to 0.006f \n\u2022 Switched to Hatebin to easly copy crash logs \n\u2022 Added Bromite Browser & WebView with AD-blocking \n\u2022 Added Simple Calendar app \n\u2022 Added feature to refresh rate lowering in battery saver.",
+                    "settingsTitle": "Minor bug fixes",
+                    "settingsSummary": "\u2022 Fixed critical bugs",
+                    "securityTitle": "July Bulletin",
+                    "securitySummary": "\u2022 July 2021 Security Patch merged.",
+                    "systemTitle": "UI Improvements",
+                    "systemSummary": "\u2022 Fixes for Lockscreen clock when qspanel is expanded \n\u2022 Fixed inactive Wi-FI state icon on Kai icon pack \n\u2022 Decreased battery size in status bar."
                 }
             ]
         }
