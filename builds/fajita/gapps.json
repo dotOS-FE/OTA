@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1625251138",
-            "filename": "dotOS-FanEdition-R-v1.0-fajita-GAPPS-20210702-1839.zip",
-            "id": "394285a16547ef429f1f8794ed7b5fcd",
+            "datetime": "1627237607",
+            "filename": "dotOS-FanEdition-R-v1.1-fajita-GAPPS-20210725-1829.zip",
+            "id": "91a76d19170a9e996b6a16b1d1f6bf23",
             "romtype": "GAPPS",
-            "size": "1117529415",
-            "url": "https://sourceforge.net/projects/dotos-fe/files/fajita/gapps/dotOS-FanEdition-R-v1.0-fajita-GAPPS-20210702-1839.zip/download",
-            "version": "v1.0",
+            "size": "1205977115",
+            "url": "https://sourceforge.net/projects/dotos-fe/files/dot11/fajita/gapps/dotOS-FanEdition-R-v1.1-fajita-GAPPS-20210725-1829.zip/download",
+            "version": "v1.1",
             "changelog": [
                 {
-                    "miscTitle": "",
-                    "miscSummary": "",
+                    "miscTitle": "New features",
+                    "miscSummary": "\u2022 Android 12 S clocks \n\u2022 Added Screen lock and keypress sounds from OOS 11.",
                     "settingsTitle": "",
                     "settingsSummary": "",
                     "securityTitle": "",
                     "securitySummary": "",
-                    "systemTitle": "Some device bug fixes",
-                    "systemSummary": "\u2022 Fixed NFC service crashing\n\u2022 Added build fingerprint to bypass SafetyNet"
+                    "systemTitle": "",
+                    "systemSummary": ""
                 }
             ]
         }
