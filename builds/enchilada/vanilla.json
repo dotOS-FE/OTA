@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1627131223",
-            "filename": "dotOS-FanEdition-R-v1.1-enchilada-OFFICIAL-20210724-1256.zip",
-            "id": "1ac41244656b24bfe116f4c60bad1169",
+            "datetime": "1628351881",
+            "filename": "dotOS-FanEdition-R-v1.2-enchilada-OFFICIAL-20210807-1558.zip",
+            "id": "ebbadaa9a1078ff8b81e36b8fa2baf47",
             "romtype": "VANILLA",
-            "size": "856440784",
-            "url": "https://sourceforge.net/projects/dotos-fe/files/enchilada/vanilla/dotOS-FanEdition-R-v1.1-enchilada-OFFICIAL-20210724-1256.zip/download",
-            "version": "v1.1",
+            "size": "867149997",
+            "url": "https://sourceforge.net/projects/dotos-fe/files/enchilada/vanilla/dotOS-FanEdition-R-v1.2-enchilada-OFFICIAL-20210807-1558.zip/download",
+            "version": "v1.2",
             "changelog": [
                 {
                     "miscTitle": "New features",
-                    "miscSummary": "\u2022 Allowed changing face unlock method \n\u2022 Added ADB root feature \n\u2022 Added optional haptic feedback on back gesture \n\u2022 Introduced swipe to call on AOSP Dialer \n\u2022 Added quick unlock feature \n\u2022 Disabled fullscreen keyboard in landscape mode \n\u2022 Added Sync Tile \n\u2022 Added memory usage info in app info page \n\u2022 Added Flipendo (Extreme Battery Saver) \n\u2022 Added Edge Music Control Gesture \n\u2022 Allowed installation non-market apps by default \n\u2022 OnePlus Launcher is now avalible in GApps builds \n\u2022 Added OnePlus Number, Roman & Fluid v2 clocks \n\u2022 Switched to filled OxygenOS vibrate icon \n\u2022 Added reTicker feature \n\u2022 Setted scrolling friction to 0.006f \n\u2022 Switched to Hatebin to easly copy crash logs \n\u2022 Added Bromite Browser & WebView with AD-blocking \n\u2022 Added Simple Calendar app \n\u2022 Added feature to refresh rate lowering in battery saver.",
-                    "settingsTitle": "Minor bug fixes",
+                    "miscSummary": "\u2022 Enabled dark theme by default \n\u2022 Added 2 our new wallpapers \n\u2022 Introduced A12 Styles Switches \n\u2022 Added Java IDE & Type (Alt) clocks \n\u2022 Introduced Adaptive Playback \n\u2022 Introduced dynamic VoLTE & VoWiFi icons \n\u2022 Changed Gallery2 to QP Gallery Mod \n\u2022 Added Volume Panel Styles support \n\u2022 Added notification counter \n\u2022 Added toggle to disable “Lock” icon on Lock Screen \n\u2022 Updater app will be launched on “Rom card” click in “About Device” \n\u2022 Added support to enable/disable app volume rows \n\u2022 Introduced Automated DC Dimming \n\u2022 Added screenshot quality setting \n\u2022 Added an option to enable Wake on plug \n\u2022 Added option to enable AOD on charging only \n\u2022 Added option to enable/disable screenshot sound \n\u2022 Added option to enable/disable lockscreen shortcuts \n\u2022 Added lockscreen background blur \n\u2022 Added Gaming Mode \n\u2022 Added Gaming Mode tile \n\u2022 Added support for MiSound & DiracSound FX \n\u2022 Added option to show 4G icon instead of LTE option \n\u2022 Added option to show Data disabled icon \n\u2022 Added option to enable/disable roaming icon \n\u2022 Added option to enable/disable QS on Lock Screen.",
+                    "settingsTitle": "Update August",
                     "settingsSummary": "\u2022 Fixed critical bugs",
-                    "securityTitle": "July Bulletin",
-                    "securitySummary": "\u2022 July 2021 Security Patch merged.",
-                    "systemTitle": "UI Improvements",
-                    "systemSummary": "\u2022 Fixes for Lockscreen clock when qspanel is expanded \n\u2022 Fixed inactive Wi-FI state icon on Kai icon pack \n\u2022 Decreased battery size in status bar."
+                    "securityTitle": "August Security Patch",
+                    "securitySummary": "\u2022 August 2021 Security Patch merged.",
+                    "systemTitle": "Device Specific Changes",
+                    "systemSummary": "\u2022 Enable Battery Health \n\u2022 Battery Health Sepolicy \n\u2022 Battery Health Overlay \n\u2022 Overlay: Added support for call recording - Use google dialer Beta \n\u2022 Overlay: enable Multi Users UI - Set Max users to 4  "
                 }
             ]
         }
