@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "datetime": "1627237607",
-            "filename": "dotOS-FanEdition-R-v1.1-fajita-GAPPS-20210725-1829.zip",
-            "id": "91a76d19170a9e996b6a16b1d1f6bf23",
+            "datetime": "1628414835",
+            "filename": "dotOS-FanEdition-R-v1.2-fajita-GAPPS-20210808-0929.zip",
+            "id": "5c5354c836f53be58f33ad3ab9f42964",
             "romtype": "GAPPS",
-            "size": "1205977115",
-            "url": "https://sourceforge.net/projects/dotos-fe/files/dot11/fajita/gapps/dotOS-FanEdition-R-v1.1-fajita-GAPPS-20210725-1829.zip/download",
-            "version": "v1.1",
+            "size": "1222447440",
+            "url": "https://sourceforge.net/projects/dotos-fe/files/dot11/fajita/gapps/dotOS-FanEdition-R-v1.2-fajita-GAPPS-20210808-0929.zip/download",
+            "version": "v1.2",
             "changelog": [
                 {
                     "miscTitle": "New features",
-                    "miscSummary": "\u2022 Android 12 S clocks \n\u2022 Added Screen lock and keypress sounds from OOS 11.",
-                    "settingsTitle": "",
-                    "settingsSummary": "",
-                    "securityTitle": "",
-                    "securitySummary": "",
-                    "systemTitle": "",
-                    "systemSummary": ""
+                    "miscSummary": "\u2022 Enabled dark theme by default \n\u2022 Added 2 our new wallpapers \n\u2022 Introduced A12 Styles Switches \n\u2022 Added Java IDE & Type (Alt) clocks \n\u2022 Introduced Adaptive Playback \n\u2022 Introduced dynamic VoLTE & VoWiFi icons \n\u2022 Changed Gallery2 to QP Gallery Mod \n\u2022 Added Volume Panel Styles support \n\u2022 Added notification counter \n\u2022 Added toggle to disable “Lock” icon on Lock Screen \n\u2022 Updater app will be launched on “Rom card” click in “About Device” \n\u2022 Added support to enable/disable app volume rows \n\u2022 Introduced Automated DC Dimming \n\u2022 Added screenshot quality setting \n\u2022 Added an option to enable Wake on plug \n\u2022 Added option to enable AOD on charging only \n\u2022 Added option to enable/disable screenshot sound \n\u2022 Added option to enable/disable lockscreen shortcuts \n\u2022 Added lockscreen background blur \n\u2022 Added Gaming Mode \n\u2022 Added Gaming Mode tile \n\u2022 Added support for MiSound & DiracSound FX \n\u2022 Added option to show 4G icon instead of LTE option \n\u2022 Added option to show Data disabled icon \n\u2022 Added option to enable/disable roaming icon \n\u2022 Added option to enable/disable QS on Lock Screen.",
+                    "settingsTitle": "Minor bg fixes",
+                    "settingsSummary": "\u2022 Fixed critical bugs.",
+                    "securityTitle": "August Bulletin",
+                    "securitySummary": "\u2022 August  2021 Security Patch merged.",
+                    "systemTitle": "UI Redesign",
+                    "systemSummary": "\u2022 Redesigned “Calculator” app \n\u2022 Update “Dialer” app UI \n\u2022 Updated “Settings” app dashboard UI \n\u2022 Small Quick Settings redesign \n\u2022 Few Blur improvements \n\u2022 Updated VoLTE icon from OxygenOS 11."
                 }
             ]
         }
